@@ -1,0 +1,22 @@
+{
+    "files.exclude": {
+        ".dart_tool": true,
+        ".idea": true,
+        "allApp": true,
+        "android": true,
+        "build": true,
+        "ios": true,
+        "linux": true,
+        "macos": true,
+        "practiceflutter": true,
+        "test": true,
+        "web": true,
+        "windows": true,
+        "analysis_options.yaml": true,
+        "practiceflutter.iml": true,
+        "pubspec.lock": true,
+        "README.md": true,
+        ".vscode": true
+    },
+    "workspace.isHidden": true
+}
